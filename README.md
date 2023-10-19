@@ -1,10 +1,12 @@
 ![README banner with text removed](https://github.com/chaitanya-000/pintrest_masonry/assets/103093624/4ee657ad-061c-460f-973e-94ccf1bfd1f0)
 
-Pintrest Masonry with HTML & CSS.
+Simple Pinterest Masonry with HTML & CSS.
 
-Create Pintrest like Masonry with just HTML & CSS. Just copy-paste and customize.
+Live preview-   https://masonry-grid-css.netlify.app/
 
-HOW TO USE.
+Create Pinterest-like Masonry with just HTML and CSS. Just copy-paste and customise.
+
+HOW TO USE
 There are two files in the repository.
 
 1. Index.html
